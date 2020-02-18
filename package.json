@@ -27,7 +27,7 @@
     "eslint-plugin-flowtype": "^2.30.0",
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jasmine": "^2.2.0",
-    "eslint-plugin-jest": "^1.0.2",
+    "eslint-plugin-jest": "^21.27.2",
     "flow-bin": "^0.39.0",
     "jest": "^18.1.0",
     "rimraf": "^2.5.4",
